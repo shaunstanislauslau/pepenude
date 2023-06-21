@@ -32,7 +32,7 @@
     "image-to-base64": "^2.0.1",
     "js-event-bus": "^1.0.0",
     "mime-types": "^2.1.24",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "clipboard": "^2.0.4",
     "debug": "^4.1.1",
     "downloadjs": "^1.4.7",
